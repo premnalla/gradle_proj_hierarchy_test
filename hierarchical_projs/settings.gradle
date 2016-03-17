@@ -1,0 +1,1 @@
+include "sub_proj1", "sub_proj2:shared", "sub_proj2:api"
